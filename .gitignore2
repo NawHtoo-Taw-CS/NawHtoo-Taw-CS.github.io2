@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+.aa {
+  margin: 0px 0px 0px 683px;
+}
+</style>
+</body>
+<head><link rel="stylesheet" type="text/css" href="grey">
+<title>TheGameRanger</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+    <style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body>
+<body background="grey2.jpg">
+<ul>
+  <li><a class="active" href="TheGameRanger.html">Home</a></li>
+  <li><a href="TheGameRanger2.html">5 Star Games</a></li>
+  <li><a href="TheGameRanger3.html">Game Rankings</a></li>
+
+
+</ul>
+<div class="container-fluid">
+  <div class="aa"><h1><font color="white">Rated Games</font></h1></div>
+  <H2><font color="white"> (God Of War) 5* </font></H2>
+
+<body>
+
+<img src="http://www.mobygames.com/images/covers/l/198187-god-of-war-playstation-2-front-cover.png" alt="God Of War" style="width:325px;height:300px;">
+
+</body>
+<h4>
+<a href="https://fr.wikipedia.org/wiki/God_of_War"><font color ="black"><button>God Of War WikiPage</button></font></a>
+</h4>
+
+<body>
+  <p><font color="white">God Of War was released on march 22nd 2005, this was the day that launched a very sucessful</p><p>
+franchise that was soon to come.</font></p>
+
+</body></div>
+    <div class="col-sm-4" <p>
+
+     </p> </div>
+  </div>
+</div>
+
+
+</body>
+</html>
